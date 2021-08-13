@@ -1,1 +1,1 @@
-# SparkRecommenderSystems
+# Building Recommender Systems using Apache Spark
